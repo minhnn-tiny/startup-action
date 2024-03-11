@@ -1,0 +1,24 @@
+{
+  "name": "startup-action",
+  "version": "1.0.0",
+  "description": "Action to build a startup from one line idea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhnn-tiny/startup-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhnn-tiny/startup-action/issues"
+  },
+  "homepage": "https://github.com/minhnn-tiny/startup-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.1",
+    "@actions/github": "^6.0.0"
+  }
+}
